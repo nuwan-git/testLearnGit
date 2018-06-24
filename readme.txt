@@ -9,6 +9,8 @@ fifth commit by mahesh
 
 added from dev branch
 
-devbracnc -> PHX-3122
+devbracnc -> PHX-3246
+
+now pull changes from PHX-3246 to dev branch
 
 
